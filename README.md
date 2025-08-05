@@ -14,7 +14,7 @@ Features:
 - Infection duration and death outcomes
 
 
-Instalation and execution:
+Installation and execution:
 -----------
 
 1. To install required libraries, run:
@@ -22,7 +22,7 @@ Instalation and execution:
 pip install requirements.txt
 ```
 
-2. Run the GUI by running gui.py on the proyect root  (*Note:* if your config.json is already saved, you can alternatively run main.py in the src folder)
+2. Run the GUI by running gui.py on the project root  (*Note:* if your config.json is already saved, you can alternatively run main.py in the src folder)
 
 3. Enter the desired configuration values in the GUI:
    - Seed (for reproducibility)
