@@ -1,0 +1,10 @@
+{
+    "seed": 67,
+    "num_communities": 5,
+    "people_per_community": 20,
+    "kill_prob": 0.15,
+    "infect_prob": 0.01,
+    "infect_inmune_prob": 0.001,
+    "min_cure_days": 14,
+    "max_cure_days": 140
+}
